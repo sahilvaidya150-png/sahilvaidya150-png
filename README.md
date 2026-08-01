@@ -25,7 +25,7 @@
 - 💡 I enjoy solving real-world problems through data-driven solutions.
 - 🤝 Open to collaborating on **Python**, **Data Analytics**, and **Open Source** projects.
 - 💼 Actively seeking **Full-Time Opportunities** as a **Data Analyst** or **Python Developer**.
-- 📫 Email: **YOUR_EMAIL@gmail.com**
+- 📫 Email: **sahilvaidya150@gmail.com**
 - 📍 Location: **Ramtek, Maharashtra, India**
 
 ---
