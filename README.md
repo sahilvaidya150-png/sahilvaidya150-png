@@ -40,30 +40,47 @@
 # 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 📊 Data Analytics
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 💻 Tools
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql" />
 </p>
 
+### 📊 Data Analytics
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 💻 Tools & Apps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/>
+</p>
+
+## 🌟 Featured Projects
+
+
+<div align="center">
+
+| 🚀 Project | 📋 Overview | ⚙️ Tech Stack |
+|:-----------|:------------|:--------------|
+| 📊 **Sales Analytics Dashboard** | Interactive dashboard for analyzing sales trends, KPIs, and business performance. | <img src="https://skillicons.dev/icons?i=python" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/> |
+| 📈 **Data Analysis with Python** | Performed data cleaning, exploratory data analysis (EDA), and visualization using Python libraries. | <img src="https://skillicons.dev/icons?i=python" height="32"/> <img src="https://skillicons.dev/icons?i=pandas,numpy" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="32"/> |
+| 🗄️ **SQL Analytics Project** | Wrote optimized SQL queries for business reporting, KPI analysis, and database management. | <img src="https://skillicons.dev/icons?i=mysql" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32"/> |
+| 🐍 **Python Automation Scripts** | Automated file processing, report generation, and everyday tasks using Python. | <img src="https://skillicons.dev/icons?i=python" height="32"/> |
+| 📚 **Python Learning Repository** | Comprehensive repository featuring Python fundamentals, OOP, Exception Handling, and File Handling programs. | <img src="https://skillicons.dev/icons?i=python,git,github,vscode" height="32"/> |
+
+</div>
 
 # 📊 GitHub Statistics
 
