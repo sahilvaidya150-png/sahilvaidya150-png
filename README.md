@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Sahil+Vaidya;Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;AI+%7C+LLMs+Enthusiast;Open+to+Work+🚀" alt="Typing SVG"/>
 </h1>
 
-<h3 align="center">🚀 Python Developer | Data Science Enthusiast | AI & ML Learner | Fresher</h3>
+<h3 align="center">🚀 Python Developer | Data Science Enthusiast |  Fresher</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahilvaidya150-png&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
