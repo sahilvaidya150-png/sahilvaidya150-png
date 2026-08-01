@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Sahil+Vaidya;Data+Analyst;Python+Developer;SQL+%7C+Power+BI+%7C+Excel;Building+Data-Driven+Solutions;Machine+Learning+Enthusiast;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Sahil+Vaidya;Data+Analyst;Python+Developer;SQL+%7C+Power+BI+%7C+Excel;Machine+Learning+Enthusiast;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">💼 Data Analyst | Python Developer | SQL • Power BI • Excel • Data Visualization | Open to Work</h3>
